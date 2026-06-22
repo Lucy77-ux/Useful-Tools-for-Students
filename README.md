@@ -9,7 +9,7 @@ A collaborative guide by:
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Chatgpt](#chatgpt)
+- [Chatgt](#chatgt)
 - [Deepseek](#deepseek)
 - [Gemini](#gemini)
 - [VS Code](#vs-code)
