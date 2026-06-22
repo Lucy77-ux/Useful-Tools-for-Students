@@ -32,3 +32,23 @@ It has built-in support for Git source control management and powerful integrati
 
 ## Canva
 An intuitive, cloud-based visual communication and graphic design platform that allows users to create a wide variety of visual content, such as social media graphics, presentations, posters, and videos, using a drag-and-drop interface and customizable templates.
+
+### Why Students Should use It
+- It builds career-ready skills.
+- It enables seamless collaborations.
+- It saves time with templates.
+- It is cloud-based, allowing *accessibility* and secure *project editing.*
+
+### How to get started
+1. Download the app from Google Chrome browser.
+2. Install the app under the recommended operating system.
+3. Launch the canva app from dsktop, start menu and log in through browser button.
+
+### Useful Links
+[Canva's begginer's guide](https://www.canva.ecom/learn/how-to-canva-beginner's-guide/)
+
+[Canva's Website builder](https://www.canva.com/website-builder/)
+
+git add README.md
+git commit -m "Add Canva section"
+git push origin add-canva-section
