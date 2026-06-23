@@ -23,6 +23,19 @@ An advanced AI chatbot developed by OpenAI that generates human-like text, write
 
 ## Deepseek
 A Chinese artificial intelligence company that develops advanced AI models and a chatbot similar to chatgpt.
+### Why Students Should Use It Deep Seek
+- Enhanced Learning
+- Improved Efficiency
+- Personalized Assistance
+- Cost-Effective
+### How to Get Started
+- Create an Account|
+- Explore the Dashboard
+- Choose Your Use Case:
+- Fine-tune Parameters
+- Run Locally
+### Useful Links
+- https://www.bing.com
 
 ## Gemini
 It helps learners conquer differnt coursework, master plaftforms like GitHub, and organize crative or technical projcts with the support of a grounded, peer-like AI.
