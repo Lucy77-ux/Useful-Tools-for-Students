@@ -74,7 +74,20 @@ A Chinese artificial intelligence company that develops advanced AI models and a
 
 ## Gemini
 It helps learners conquer differnt coursework, master plaftforms like GitHub, and organize crative or technical projcts with the support of a grounded, peer-like AI.
-
+### Why Students Should Use It Deep Seek
+- Helps with studying
+- Supports research
+- Improves writing
+- Assists with homework
+- Boosts creativity
+### How to Get Started
+- Create or sign in to a Google Account
+- Visit the Gemini website or download the app
+- Start a new chat
+- Use clear prompts
+- Review the answers
+### Useful Links
+https://gemini.google.com?utm_source=chatgpt.com
 ## Canva
 An intuitive, cloud-based visual communication and graphic design platform that allows users to create a wide variety of visual content, such as social media graphics, presentations, posters, and videos, using a drag-and-drop interface and customizable templates.
 
