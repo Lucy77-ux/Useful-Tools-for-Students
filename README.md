@@ -56,38 +56,45 @@ The following resources can help students learn more about the tools featured in
 - [VS Code Documentation](https://code.visualstudio.com/docs) - Guides and tutorials for Visual Studio Code.
 - [W3Schools](https://www.w3schools.com/) - Free tutorials for web development and programming.
 - [freeCodeCamp](https://www.freecodecamp.org/) - Interactive coding lessons and projects.
+
 ## Deepseek
 A Chinese artificial intelligence company that develops advanced AI models and a chatbot similar to chatgpt.
+
 ### Why Students Should Use It Deep Seek
 - Enhanced Learning
 - Improved Efficiency
 - Personalized Assistance
 - Cost-Effective
+- 
 ### How to Get Started
-- Create an Account|
+- Create an Account
 - Explore the Dashboard
 - Choose Your Use Case:
 - Fine-tune Parameters
 - Run Locally
+- 
 ### Useful Links
 - https://www.bing.com
 
 ## Gemini
 It helps learners conquer differnt coursework, master plaftforms like GitHub, and organize crative or technical projcts with the support of a grounded, peer-like AI.
-### Why Students Should Use It Deep Seek
+### Why Students Should Use It
 - Helps with studying
 - Supports research
 - Improves writing
 - Assists with homework
 - Boosts creativity
+
 ### How to Get Started
 - Create or sign in to a Google Account
 - Visit the Gemini website or download the app
 - Start a new chat
 - Use clear prompts
 - Review the answers
+
 ### Useful Links
 https://gemini.google.com
+
 ## Canva
 An intuitive, cloud-based visual communication and graphic design platform that allows users to create a wide variety of visual content, such as social media graphics, presentations, posters, and videos, using a drag-and-drop interface and customizable templates.
 
@@ -107,9 +114,6 @@ An intuitive, cloud-based visual communication and graphic design platform that 
 
 [Canva's Website builder](https://www.canva.com/website-builder/)
 
-git add README.md
-git commit -m "Add Canva section"
-git push origin add-canva-section
 ## VS Code
 
 **Visual Studio Code (VS Code)** is a free and popular code editor developed by Microsoft. It is used by students and professional developers to write, edit, and debug code in many programming languages.
