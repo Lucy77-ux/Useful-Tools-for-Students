@@ -12,8 +12,8 @@ A collaborative guide by:
 - [Chatgt](#chatgt)
 - [Deepseek](#deepseek)
 - [Gemini](#gemini)
-- [VS Code](#vs-code)
 - [Canva](#canva)
+- [VS Code](#vs-code)
 
 ## Introduction
 This guide covers tools that every student should know about.
@@ -65,9 +65,6 @@ A Chinese artificial intelligence company that develops advanced AI models and a
 
 ## Gemini
 It helps learners conquer differnt coursework, master plaftforms like GitHub, and organize crative or technical projcts with the support of a grounded, peer-like AI.
-
-## VS Code
-It has built-in support for Git source control management and powerful integrations with GitHub, an integrated debugger, and smart code completion with AI-driven IntelliCode, enabling customization of features to fit the user's needs, preferences, and style.
 
 ## Canva
 An intuitive, cloud-based visual communication and graphic design platform that allows users to create a wide variety of visual content, such as social media graphics, presentations, posters, and videos, using a drag-and-drop interface and customizable templates.
