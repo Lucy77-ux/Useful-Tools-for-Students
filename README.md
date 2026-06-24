@@ -87,7 +87,7 @@ It helps learners conquer differnt coursework, master plaftforms like GitHub, an
 - Use clear prompts
 - Review the answers
 ### Useful Links
-https://gemini.google.com?utm_source=chatgpt.com
+https://gemini.google.com
 ## Canva
 An intuitive, cloud-based visual communication and graphic design platform that allows users to create a wide variety of visual content, such as social media graphics, presentations, posters, and videos, using a drag-and-drop interface and customizable templates.
 
