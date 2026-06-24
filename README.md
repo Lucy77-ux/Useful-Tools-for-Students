@@ -19,8 +19,23 @@ A collaborative guide by:
 This guide covers tools that every student should know about.
 
 ## Chatgpt
-An advanced AI chatbot developed by OpenAI that generates human-like text, writes code, translates languages, and analyzes images.
+**chatgpt** is an AI-powered assistant developed by OpenAI that helps users learn, write, code, and solve problems.
 
+### Why Students Should Use It
+- It explains difficult concepts in simple language.
+- It helps with coding and debugging programs.
+- It assists with research, writing, and studying.
+- It provides quick answers and learning support.
+
+### How to Get Started
+1. Visit https://chatgpt.com/
+2. Sign in or create an account.
+3. Type a question or request in the chat box.
+4. Review the response and use it to support your learning.
+
+### Useful Links
+- https://chatgpt.com/
+- https://openai.com/chatgpt/
 ## Deepseek
 A Chinese artificial intelligence company that develops advanced AI models and a chatbot similar to chatgpt.
 ### Why Students Should Use It Deep Seek
