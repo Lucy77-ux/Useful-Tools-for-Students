@@ -80,3 +80,25 @@ An intuitive, cloud-based visual communication and graphic design platform that 
 git add README.md
 git commit -m "Add Canva section"
 git push origin add-canva-section
+## VS Code
+
+**Visual Studio Code (VS Code)** is a free and popular code editor developed by Microsoft. It is used by students and professional developers to write, edit, and debug code in many programming languages.
+
+### Why Students Should Use It
+
+- Easy to install and use
+- Supports many programming languages
+- Has a built-in terminal
+- Provides useful extensions
+- Works on Windows, Linux, and Mac
+
+### How to Get Started
+
+1. Download VS Code from https://code.visualstudio.com
+2. Install it on your computer
+3. Open a folder or project
+4. Start writing code
+
+### Useful Links
+
+- VS Code Documentation: https://code.visualstudio.com/docs
