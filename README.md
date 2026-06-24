@@ -19,6 +19,10 @@ A collaborative guide by:
 This guide covers tools that every student should know about.
 
 ## Chatgpt
+![ChatGPT Diagram](Useful-Tools-for-Students/chatgpt-screenshot.png)
+
+*Figure 1: Diagram showing how ChatGPT is trained using human feedback.*
+
 **chatgpt** is an AI-powered assistant developed by OpenAI that helps users learn, write, code, and solve problems.
 
 ### Why Students Should Use It
@@ -36,6 +40,13 @@ This guide covers tools that every student should know about.
 ### Useful Links
 - https://chatgpt.com/
 - https://openai.com/chatgpt/
+### Practical Examples for Students
+
+* **Studying:** Students can use chatgpt to explain difficult concepts, summarize notes, and create practice questions for revision.
+
+* **Coding:** Students can use chatgpt to learn programming concepts, debug code, and get help with assignments and projects.
+
+* **Research:** Students can use chatgpt to brainstorm ideas, understand complex topics, and organize information for reports and presentations.
 ## Deepseek
 A Chinese artificial intelligence company that develops advanced AI models and a chatbot similar to chatgpt.
 ### Why Students Should Use It Deep Seek
