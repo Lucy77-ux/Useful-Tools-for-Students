@@ -86,4 +86,8 @@ git push origin add-canva-section
 
 ### Useful Links
 
+- VS Code Documentation: https://code.visualstudio.com/docs## Resources
+
 - VS Code Documentation: https://code.visualstudio.com/docs
+- GitHub Docs: https://docs.github.com
+- W3Schools: https://www.w3schools.com
