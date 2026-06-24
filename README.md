@@ -47,6 +47,15 @@ This guide covers tools that every student should know about.
 * **Coding:** Students can use chatgpt to learn programming concepts, debug code, and get help with assignments and projects.
 
 * **Research:** Students can use chatgpt to brainstorm ideas, understand complex topics, and organize information for reports and presentations.
+### Resources
+
+The following resources can help students learn more about the tools featured in this project:
+
+- [ChatGPT](https://chatgpt.com/) - AI assistant for learning, writing, coding, and research.
+- [GitHub Docs](https://docs.github.com/) - Official documentation for GitHub.
+- [VS Code Documentation](https://code.visualstudio.com/docs) - Guides and tutorials for Visual Studio Code.
+- [W3Schools](https://www.w3schools.com/) - Free tutorials for web development and programming.
+- [freeCodeCamp](https://www.freecodecamp.org/) - Interactive coding lessons and projects.
 ## Deepseek
 A Chinese artificial intelligence company that develops advanced AI models and a chatbot similar to chatgpt.
 ### Why Students Should Use It Deep Seek
